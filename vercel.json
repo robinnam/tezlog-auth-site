@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/callback",
+      "destination": "tezlog://callback",
+      "permanent": false
+    }
+  ]
+}
